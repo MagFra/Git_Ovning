@@ -5,6 +5,6 @@
         public int MFCarsId { get; set; }
         public string Brand { get; set;}
         public string Model { get; set;}
-        public string PrimaryColor { get; set; } = "red";
+        public string PrimaryColor { get; set; } = "blue";
     }
 }
